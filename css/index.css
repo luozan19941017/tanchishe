@@ -1,0 +1,31 @@
+
+.changjing{
+	width:600px;
+	height:600px;
+	background:black;
+	position:absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	margin:auto;
+	background:rgba(255,255,255,0.5);
+}
+.block{
+	width:30px;
+	height:30px;
+	float:left;
+	background-image:url(../img/caodi.jpg);
+	background-size:cover;
+
+}
+.she{
+	width:30px;
+	height:30px;
+	background:url(../img/she.jpg);
+	background-size:cover;
+}
+.shiwu{
+	background:url(../img/shiwu.jpg) center center;
+	background-size:cover;
+}
